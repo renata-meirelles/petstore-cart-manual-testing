@@ -39,7 +39,17 @@ As verificações do carrinho abordaram funcionalidades como:
 
 ## Documentação e evidências
 
-Os documentos originais, checklists e evidências disponíveis serão adicionados gradualmente a este repositório.
+O arquivo `Cópia de STLC task [Renata Meirelles].xlsx`, disponível neste repositório, contém a documentação prática dos testes do carrinho PetStore.
+
+A planilha possui quatro abas:
+
+* **Checklist:** cenários, prioridades e resultados dos testes.
+* **Report:** relatório da atividade.
+* **Self-check:** verificações da atividade.
+* **Bugs:** registro dos problemas identificados.
+
+Os resultados incluem os status Passed, Failed e Blocked.
+
 
 ## Origem do projeto
 
